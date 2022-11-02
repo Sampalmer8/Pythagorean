@@ -1,0 +1,17 @@
+html {
+    background-color: white;
+}
+
+body {
+    background-color: blueviolet;
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    padding: 100px;
+    border-radius: 25px;
+}
+
+button {
+    padding: 5px;
+    border-radius: 7px;
+}
